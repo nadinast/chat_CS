@@ -1,0 +1,9 @@
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadClient\MultiThreadClient\bin\Debug\MultiThreadClient.exe.config
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadClient\MultiThreadClient\bin\Debug\MultiThreadClient.exe
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadClient\MultiThreadClient\bin\Debug\MultiThreadClient.pdb
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadClient\MultiThreadClient\obj\Debug\MultiThreadClient.Form1.resources
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadClient\MultiThreadClient\obj\Debug\MultiThreadClient.Properties.Resources.resources
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadClient\MultiThreadClient\obj\Debug\MultiThreadClient.csproj.GenerateResource.Cache
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadClient\MultiThreadClient\obj\Debug\MultiThreadClient.exe
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadClient\MultiThreadClient\obj\Debug\MultiThreadClient.pdb
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadClient\MultiThreadClient\obj\Debug\MultiThreadClient.csprojResolveAssemblyReference.cache
