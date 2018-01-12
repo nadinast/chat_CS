@@ -1,0 +1,6 @@
+c:\users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadServer\MultiThreadServer\bin\Debug\MultiThreadServer.exe.config
+c:\Users\nadis\OneDrive\Documents\Visual Studio 2015\Projects\MultiThreadServer\MultiThreadServer\bin\Debug\MultiThreadServer.exe
+c:\Users\nadis\OneDrive\Documents\Visual Studio 2015\Projects\MultiThreadServer\MultiThreadServer\bin\Debug\MultiThreadServer.pdb
+c:\Users\nadis\OneDrive\Documents\Visual Studio 2015\Projects\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.exe
+c:\Users\nadis\OneDrive\Documents\Visual Studio 2015\Projects\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.pdb
+C:\Users\nadis\onedrive\documents\visual studio 2015\Projects\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.csprojResolveAssemblyReference.cache
